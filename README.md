@@ -21,7 +21,7 @@ npm install reddit-api-wrapper
 Here's how you can use this package:
 
 ```javascript
-const reddit = require('<your-package-name>');
+const reddit = require('reddit-api-wrapper');
 
 // Fetch top posts from all of Reddit
 reddit
